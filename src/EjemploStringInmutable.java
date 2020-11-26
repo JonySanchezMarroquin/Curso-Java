@@ -15,7 +15,7 @@ public class EjemploStringInmutable {
         System.out.println("resultado2 = " + resultado2);
 
         String resultado3 = resultado.replace("a","A");
-        
+
         System.out.println("resultado = " + resultado);
     }
 }
